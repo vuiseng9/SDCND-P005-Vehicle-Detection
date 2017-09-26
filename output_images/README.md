@@ -1,5 +1,5 @@
 1. color_histogram_eg1.jpg
-   color histogram feature extraction example 1
+- color histogram feature extraction example 1
 
 2. color_histogram_eg2.jpg
    color histogram feature extraction example 2
